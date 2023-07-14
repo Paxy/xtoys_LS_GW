@@ -3,6 +3,8 @@ ESP32 Love Spouse XToys MQTT gateway for remote controlling your toys
 
 Are your Love Spouse toys losing connection with XToys App? It is fixable!
 
+![Screenshot](preview.jpg)
+
 ESP32 gateway provides a stronger signal to the toys while keeping a connection with the APP over WiFi.
 
 Requirements: 
