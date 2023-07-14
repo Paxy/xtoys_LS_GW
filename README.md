@@ -11,9 +11,9 @@ Requirements:
 
 In XToys.app Custom Toys create new MQTT Toy and fill parameters:
 - Name: \<\<Name of your chosing\>\>
-- Type: 2 Channels Vibratior
+- Type: 2 Channels Vibrator
 - NR of intensity steps: 3
-- MQTT address: wss://\<\<your MQTT domain\>\>:\<\<MQTT secured websocket port\>\> for ex. wss://services.paxy.in.rs:8083 (MQTT must provideC secured WebSocket service with a trusted certificate on the specified port)
+- MQTT address: wss://\<\<your MQTT domain\>\>:\<\<MQTT secured websocket port\>\> for ex. wss://services.paxy.in.rs:8083 (MQTT must provide secured WebSocket service with a trusted certificate on the specified port)
 - Credentials required: Yes
 - MQTT publish topic: xtoys/gw/ (or anything else).
 - Message payload: \<\<vibrate\>\>,\<\<channel\>\>
