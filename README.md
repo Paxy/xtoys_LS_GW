@@ -27,6 +27,6 @@ In ESP32 firmware, you can customize the following settings:
 - mqttPassword: \<\<MQTT password\>\>
 - xtoys_topic: xtoys/gw/ (or anything else)
 
-Special thanks for the help from @denialtek and @AndroSphinx for protocol and code used in this project.
+Special thanks for the help from [denialtek](https://github.com/denialtek) and [AndroSphinx](https://github.com/AndroSphinx) for the protocol and code used in this project.
 
 Ref: https://github.com/buttplugio/docs.buttplug.io/issues/2
